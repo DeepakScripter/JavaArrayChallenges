@@ -1,8 +1,8 @@
-# Array Matrix Operations 🚀
+# JavaArrayChallenges
+
+## Array Matrix Operations 🚀
 
 This repository contains Java programs demonstrating various operations on arrays and matrices. The solutions cover a variety of array-related problems, showcasing different techniques and methods to handle array elements.
-
-## JavaArrayChallenges
 
 1. [Array Comparison](ArrayComparison.java) - Compares two arrays for equality.
 2. [Array Creation Example](ArrayCreationExample.java) - Demonstrates different methods for creating arrays.
