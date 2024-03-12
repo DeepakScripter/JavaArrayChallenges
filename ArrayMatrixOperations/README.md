@@ -17,3 +17,10 @@ Java program for matrix addition. The `MatrixSum` program takes user input for t
 ## MatrixTranspose.java 🔄
 
 Java program illustrating matrix transposition. The `MatrixTranspose` program takes user input for a matrix, calculates its transpose, and prints both the original and transposed matrices. The program includes helper methods for matrix input, transposition, and printing.
+
+## SearchElementIn2DArray.java 🔍 
+🚀  Java program that allows users to search for an element in a 2D array.
+## SumAverageOf2DArray.java 🔢 
+🚀 This commit introduces a Java program that calculates the sum and average of elements in a 2D array.
+## SumOfDiagonalElements.java 🔢
+🚀 This commit introduces a Java program that calculates the sum of diagonal elements in a 2D array.
